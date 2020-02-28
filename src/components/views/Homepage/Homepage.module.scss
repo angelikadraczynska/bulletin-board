@@ -1,0 +1,12 @@
+@import '../../../styles/settings.scss';
+
+.postList{
+    padding-top: 50px;
+}
+
+.link {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 25px;
+    text-decoration: none;
+}
